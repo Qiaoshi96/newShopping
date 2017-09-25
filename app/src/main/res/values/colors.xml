@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <!--标题颜色-->
+    <color name="purple_button">#de172d</color>
+    <color name="white">#f2edee</color>
+    <color name="gray">#a3989a</color>
+    <color name="black">#1a1919</color>
+    <color name="white_c">#ffff</color>
+    <color name="red">#8b0606</color>
+    <color name="qianhui">#93898a</color>
+</resources>
